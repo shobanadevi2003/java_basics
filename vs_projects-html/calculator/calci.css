@@ -1,0 +1,29 @@
+body{
+    margin-left: 40%;
+    margin-top: 10px;
+    padding: 50px;
+    background-color: rgb(238, 252, 238)
+
+
+
+}
+h1{
+    font-size: 41px;
+}
+input{
+    width: 75px;
+    height: 50px;
+    font-size: 30px;
+    border-radius: 10px;
+    border-color: rgb(188, 146, 228);
+    margin-top: 10px;
+}
+.one{
+    height: 50px;
+    width: 32%;
+
+}
+.btn:hover{
+    background-color: rgb(241, 213, 159);
+    color: white;
+}

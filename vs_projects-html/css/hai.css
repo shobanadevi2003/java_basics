@@ -1,0 +1,29 @@
+.one{
+background-color: blue;
+height: 100px;
+width: 100px;
+margin: 5px;
+position: static;
+
+}
+
+.two{
+background-color: aquamarine;
+height: 100px;
+width: 100px;
+margin: 5px;
+position: static;
+z-index: 1;
+
+}
+
+.three{
+
+background-color: blueviolet;
+height: 100px;
+width: 100px;
+margin: 5px;
+position: static;
+z-index: 2;
+
+}
